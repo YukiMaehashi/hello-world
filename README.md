@@ -1,4 +1,4 @@
 # hello-world
-just another repository
 
-My name is yuki maehashi.
+My name is Yuki Maehashi.
+I'm just a beginner of github.
